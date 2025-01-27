@@ -9,7 +9,7 @@
 
 **Chat: [https://t.me/JamBitChat](https://t.me/JamBitChat)**
 
-**Donation EVM Address: 0xe23380ae575D990BebB3b81DB2F90Ce7eDbB6dDa**
+**Donation EVM Address: **
 
 ---
 
